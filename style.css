@@ -1,0 +1,38 @@
+body {
+    background-color: #e5e5fd;
+    margin: 0px;
+    border: 0px;
+    
+   
+}
+
+div{
+    display: block;
+
+}
+
+h1,h2{
+    font-size: 40px;
+}
+strong{
+    font-size: 20px;
+}
+p{
+    font-size: 35px;
+}
+.container {
+    padding: 3%;
+    border: 3px solid rgb(4, 4, 37);
+}
+.last-section {
+    font-size: 25px;
+    font-family: "Times New Roman", Times, serif;
+    line-height: 50px;
+    word-spacing: 1px;
+    padding: 20px;
+}
+
+.top-section img {
+    border: 8px double black;
+  }
+  
